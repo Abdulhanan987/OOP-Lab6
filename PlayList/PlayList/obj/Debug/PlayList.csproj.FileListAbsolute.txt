@@ -1,0 +1,7 @@
+E:\Semester 2\Lab 6\PlayList\PlayList\bin\Debug\PlayList.exe.config
+E:\Semester 2\Lab 6\PlayList\PlayList\bin\Debug\PlayList.exe
+E:\Semester 2\Lab 6\PlayList\PlayList\bin\Debug\PlayList.pdb
+E:\Semester 2\Lab 6\PlayList\PlayList\obj\Debug\PlayList.csproj.AssemblyReference.cache
+E:\Semester 2\Lab 6\PlayList\PlayList\obj\Debug\PlayList.csproj.CoreCompileInputs.cache
+E:\Semester 2\Lab 6\PlayList\PlayList\obj\Debug\PlayList.exe
+E:\Semester 2\Lab 6\PlayList\PlayList\obj\Debug\PlayList.pdb

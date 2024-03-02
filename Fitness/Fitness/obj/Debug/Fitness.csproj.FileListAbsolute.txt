@@ -1,0 +1,7 @@
+E:\Semester 2\Lab 6\Fitness\Fitness\bin\Debug\Fitness.exe.config
+E:\Semester 2\Lab 6\Fitness\Fitness\bin\Debug\Fitness.exe
+E:\Semester 2\Lab 6\Fitness\Fitness\bin\Debug\Fitness.pdb
+E:\Semester 2\Lab 6\Fitness\Fitness\obj\Debug\Fitness.csproj.AssemblyReference.cache
+E:\Semester 2\Lab 6\Fitness\Fitness\obj\Debug\Fitness.csproj.CoreCompileInputs.cache
+E:\Semester 2\Lab 6\Fitness\Fitness\obj\Debug\Fitness.exe
+E:\Semester 2\Lab 6\Fitness\Fitness\obj\Debug\Fitness.pdb

@@ -1,0 +1,7 @@
+E:\Semester 2\Lab 6\LibraryManagementSystem\LibraryManagementSystem\bin\Debug\LibraryManagementSystem.exe.config
+E:\Semester 2\Lab 6\LibraryManagementSystem\LibraryManagementSystem\bin\Debug\LibraryManagementSystem.exe
+E:\Semester 2\Lab 6\LibraryManagementSystem\LibraryManagementSystem\bin\Debug\LibraryManagementSystem.pdb
+E:\Semester 2\Lab 6\LibraryManagementSystem\LibraryManagementSystem\obj\Debug\LibraryManagementSystem.csproj.AssemblyReference.cache
+E:\Semester 2\Lab 6\LibraryManagementSystem\LibraryManagementSystem\obj\Debug\LibraryManagementSystem.csproj.CoreCompileInputs.cache
+E:\Semester 2\Lab 6\LibraryManagementSystem\LibraryManagementSystem\obj\Debug\LibraryManagementSystem.exe
+E:\Semester 2\Lab 6\LibraryManagementSystem\LibraryManagementSystem\obj\Debug\LibraryManagementSystem.pdb
